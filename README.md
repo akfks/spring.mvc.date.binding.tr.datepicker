@@ -8,7 +8,7 @@ Indexes
   https://www.youtube.com/watch?v=DORmHaYU27c<br/>
   http://csharp-video-tutorials.blogspot.com.tr/2015/06/jquery-datepicker-in-aspnet.html<br/>
 
-gontuseries-
+<h5>gontuseries</h5>
   Spring MVC Tutorials 13 - Data Binding with Date, Collection (Arraylist), Long etc.
     https://www.youtube.com/watch?v=ZEz_0V8EJpM<br/>
   Spring MVC Tutorials 14 - Data Binding with a User-Defined Type, BindingResult (concept)
@@ -16,18 +16,18 @@ gontuseries-
   Spring MVC Tutorials 15 - @InitBinder annotation, WebDataBinder, CustomDateEditor (concept)
     https://www.youtube.com/watch?v=DORmHaYU27c<br/>
 
-Thoughts On Java-Hibernate Tip: How to map a java.util.Date
-  https://www.youtube.com/watch?v=1Q5GSfKdfOw
+<h5>Thoughts On Java-Hibernate Tip: How to map a java.util.Date</h5>
+  https://www.youtube.com/watch?v=1Q5GSfKdfOw<br/>
 
-Localization : To localize the datapicker reference the corresponding localization file
-  https://github.com/jquery/jquery-ui/tree/master/ui/i18n
+<h5>Localization : To localize the datapicker reference the corresponding localization file</h5>
+  https://github.com/jquery/jquery-ui/tree/master/ui/i18n<br/>
  
- Jquery
-  http://api.jqueryui.com/datepicker/#option-buttonImageOnly
+ <h5>Jquery</h5>
+  http://api.jqueryui.com/datepicker/#option-buttonImageOnly<br/>
   
-How to validate start date and end date with javascript
-  http://www.aspmemo.net/2011/11/how-to-validate-start-date-and-end-date.html
-  http://www.jquerybyexample.net/2012/01/end-date-should-not-be-greater-than.html
+<h5>How to validate start date and end date with javascript</h5>
+  http://www.aspmemo.net/2011/11/how-to-validate-start-date-and-end-date.html<br/>
+  http://www.jquerybyexample.net/2012/01/end-date-should-not-be-greater-than.html<br/>
 
   
 
