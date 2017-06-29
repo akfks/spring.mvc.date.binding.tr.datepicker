@@ -5,16 +5,16 @@ Usage of Jquery ui datepicker with spring mvc
 Indexes
 
 kudvenkat-jQuery datepicker in asp net
-  https://www.youtube.com/watch?v=DORmHaYU27c
-  http://csharp-video-tutorials.blogspot.com.tr/2015/06/jquery-datepicker-in-aspnet.html
+  https://www.youtube.com/watch?v=DORmHaYU27c<br/>
+  http://csharp-video-tutorials.blogspot.com.tr/2015/06/jquery-datepicker-in-aspnet.html<br/>
 
 gontuseries-
   Spring MVC Tutorials 13 - Data Binding with Date, Collection (Arraylist), Long etc.
-    https://www.youtube.com/watch?v=ZEz_0V8EJpM
+    https://www.youtube.com/watch?v=ZEz_0V8EJpM<br/>
   Spring MVC Tutorials 14 - Data Binding with a User-Defined Type, BindingResult (concept)
-    https://www.youtube.com/watch?v=zyJr_uc8haA
+    https://www.youtube.com/watch?v=zyJr_uc8haA<br/>
   Spring MVC Tutorials 15 - @InitBinder annotation, WebDataBinder, CustomDateEditor (concept)
-    https://www.youtube.com/watch?v=DORmHaYU27c
+    https://www.youtube.com/watch?v=DORmHaYU27c<br/>
 
 Thoughts On Java-Hibernate Tip: How to map a java.util.Date
   https://www.youtube.com/watch?v=1Q5GSfKdfOw
