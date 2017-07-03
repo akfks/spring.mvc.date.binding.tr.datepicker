@@ -9,11 +9,11 @@ Indexes
   http://csharp-video-tutorials.blogspot.com.tr/2015/06/jquery-datepicker-in-aspnet.html<br/>
 
 <h5>gontuseries</h5>
-  Spring MVC Tutorials 13 - Data Binding with Date, Collection (Arraylist), Long etc.
+  Spring MVC Tutorials 13 - Data Binding with Date, Collection (Arraylist), Long etc.<br/>
     https://www.youtube.com/watch?v=ZEz_0V8EJpM<br/>
-  Spring MVC Tutorials 14 - Data Binding with a User-Defined Type, BindingResult (concept)
+  Spring MVC Tutorials 14 - Data Binding with a User-Defined Type, BindingResult (concept)<br/>
     https://www.youtube.com/watch?v=zyJr_uc8haA<br/>
-  Spring MVC Tutorials 15 - @InitBinder annotation, WebDataBinder, CustomDateEditor (concept)
+  Spring MVC Tutorials 15 - @InitBinder annotation, WebDataBinder, CustomDateEditor (concept)<br/>
     https://www.youtube.com/watch?v=DORmHaYU27c<br/>
 
 <h5>Thoughts On Java-Hibernate Tip: How to map a java.util.Date</h5>
